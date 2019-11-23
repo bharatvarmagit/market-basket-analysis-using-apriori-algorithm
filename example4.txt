@@ -1,0 +1,20 @@
+j h g b a 
+h i b f c g 
+e d c d i h 
+a h c f b 
+j e g a h
+h b g d f e 
+f i d e b j 
+j i b e h d 
+h i b a
+j e b f c d 
+f c d e
+a c f e
+d i a g 
+g c b
+c j d e a
+i f b c j 
+f b h e d
+d c a e 
+j b e h i d 
+d b g c e
